@@ -2,7 +2,7 @@
 
 Creates desktop wallpapers from your favorite songs.
 
-Created using [Spotipy Web API](https://spotipy.readthedocs.io/en/2.21.0/).
+Created using [Spotipy](https://spotipy.readthedocs.io/en/2.21.0/).
 
 ## Examples
 
